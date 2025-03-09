@@ -3,7 +3,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Aimable01/weather_monitor.git
+   git clone https://github.com/MUGISHA-Pascal/Weather-Station.git
    cd weather_monitor
    ```
 
